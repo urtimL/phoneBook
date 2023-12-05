@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ait.phonebook.tests.LoginTests" tests="2" skipped="2" failures="0" errors="0" timestamp="2023-11-30T10:05:02" hostname="timur-Aspire" time="0.002">
+  <properties/>
+  <testcase name="loginRegisteredUserNegativeTestWithoutEmail" classname="com.ait.phonebook.tests.LoginTests" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="loginRegisteredUserPositiveTest" classname="com.ait.phonebook.tests.LoginTests" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
